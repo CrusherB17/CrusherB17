@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrusherB17
 - 👀 I’m interested in stufff
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning typeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: texting, emailing, or call
 
